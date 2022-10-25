@@ -3,24 +3,7 @@ export function Footer() {
     <footer class="text-gray-100  body-font">
       <div class="container px-5 py-8 mx-auto flex flex-col items-center space-y-4">
         <span class="inline-flex sm:mx-auto sm:mt-0 mt-4 justify-center">
-          <a class="text-gray-100" href="https://mirror.xyz/adamsobotka.eth">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              width="24"
-              height="24"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="2"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              class="feather feather-book-open"
-            >
-              <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
-              <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
-            </svg>
-          </a>
-          <a class="ml-3 text-gray-100" href="https://github.com/vorcigernix">
+          <a class="ml-3 text-gray-100" href="https://github.com/david2407">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="24"
@@ -37,7 +20,7 @@ export function Footer() {
               </path>
             </svg>
           </a>
-          <a class="ml-3 text-gray-100" href="https://twitter.com/vorcigernix">
+          <a class="ml-3 text-gray-100" href="https://twitter.com/dcontando">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="24"
@@ -56,7 +39,7 @@ export function Footer() {
           </a>
           <a
             class="ml-3 text-gray-100"
-            href="https://www.linkedin.com/in/adamsobotka/"
+            href="https://www.linkedin.com/in/david-esteban-cortes-arango-6a820341/"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
