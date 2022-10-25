@@ -36,7 +36,7 @@ export default function App({ Component }: AppProps) {
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Adam Sobotka" />
         <meta
-          property="og:description"
+          property="og:description" 
           content="Résumé of a seasoned software management veteran drifting through the web3 space."
         />
         <meta
