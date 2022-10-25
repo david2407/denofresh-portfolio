@@ -26,7 +26,7 @@ export default function App({ Component }: AppProps) {
         />
         <link rel="manifest" href="site.webmanifest"></link>
 
-        <title>Résumé: Adam Sobotka</title>
+        <title>David Cortes</title>
         <meta
           name="description"
           content="Résumé of a seasoned software management veteran drifting through the web3 space."
